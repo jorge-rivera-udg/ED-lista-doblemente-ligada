@@ -1,0 +1,24 @@
+# Directorios de salida de compilación
+build/
+dist/
+nbdist/
+out/
+  
+# Configuraciones privadas de NetBeans (específicas de cada usuario)
+nbproject/private/
+  
+# Archivos de bitácora y temporales
+nbactions.xml
+nb-configuration.xml
+*.log
+  
+# Si usas Maven con NetBeans
+target/
+  
+# Si usas C++ con NetBeans
+nbproject/Makefile-*
+nbproject/Package-*
+  
+# Archivos de MacOS
+.DS_Store
+  
